@@ -1,2 +1,2 @@
 # Focus On Coding With JavaScript
-不管忙不忙, 时不时写写代码题, 保持感觉...
+no matter how busy you are, keep coding with js
