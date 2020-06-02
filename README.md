@@ -32,8 +32,14 @@ o(n): 创建长度为 n 的数组
 - 遍历,条件判断
 - 声明临时变量, 指针等
 
-## Array
-- [1.查找出现最多的项]
-
+## Sort
+- [冒泡手写](https://github.com/appleguardu/coding/issues/4)
+- [插入手写](https://github.com/appleguardu/coding/issues/5)
 
 ## String
+- [查找出现最多的项](https://github.com/appleguardu/coding/issues/1)
+- [整数翻转](https://github.com/appleguardu/coding/issues/2)
+- [相同字符组成的异位字符串](https://github.com/appleguardu/coding/issues/3)
+
+## Array
+- [一维数组转化二维分段数组](https://github.com/appleguardu/coding/issues/6)

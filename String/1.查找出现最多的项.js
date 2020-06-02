@@ -11,7 +11,7 @@ function getItemOfString(str) {
   let itemStr
 
   for (const item of str) {
-    obj[item] ? obj[item]++ : obj[item] = 1
+    obj[item] = obj[item] ? ++obj[item] : 1
   }
   
   Object.keys(obj).forEach(item => {
