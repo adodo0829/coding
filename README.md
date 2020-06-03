@@ -26,11 +26,14 @@ o(1): 算法执行所需要的临时空间不随着某个变量的大小而变�
 o(n): 创建长度为 n 的数组
 ```
 
-## 一些常规因素
+## 一些常规需要考虑的因素
 - 入参检测(类型, 范围等...)
 - 边界检测(极值, 中断条件等...)
 - 遍历,条件判断
 - 声明临时变量, 指针等
+
+## JsAPI
+- [手动实现 async + await语法糖](https://github.com/appleguardu/coding/issues/7)
 
 ## Sort
 - [冒泡手写](https://github.com/appleguardu/coding/issues/4)
