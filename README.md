@@ -43,9 +43,12 @@ o(n): 创建长度为 n 的数组
 - [查找出现最多的项](https://github.com/appleguardu/coding/issues/1)
 - [整数翻转](https://github.com/appleguardu/coding/issues/2)
 - [相同字符组成的异位字符串](https://github.com/appleguardu/coding/issues/3)
+- [翻转字符串](https://github.com/appleguardu/coding/issues/10)
+- [字符串中首个唯一项](https://github.com/appleguardu/coding/issues/10)
 
 ## Array
 - [一维数组转化二维分段数组](https://github.com/appleguardu/coding/issues/6)
 
 ## RegExp
 - [字符串转整数](https://github.com/appleguardu/coding/issues/8)
+- [实现一个报数序列](https://github.com/appleguardu/coding/issues/9)
