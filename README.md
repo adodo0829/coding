@@ -47,6 +47,7 @@ o(n): 创建长度为 n 的数组
 - [字符串中首个唯一项](https://github.com/appleguardu/coding/issues/11)
 - [回文串验证](https://github.com/appleguardu/coding/issues/12)
 - [字符串indexOf模拟](https://github.com/appleguardu/coding/issues/13)
+- [字符串数组最长公共前缀](https://github.com/appleguardu/coding/issues/14)
 
 ## Array
 - [一维数组转化二维分段数组](https://github.com/appleguardu/coding/issues/6)
