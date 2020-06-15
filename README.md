@@ -38,6 +38,7 @@ o(n): 创建长度为 n 的数组
 ## Sort
 - [冒泡手写](https://github.com/appleguardu/coding/issues/4)
 - [插入手写](https://github.com/appleguardu/coding/issues/5)
+- [快排手写](https://github.com/appleguardu/coding/issues/15)
 
 ## String
 - [查找出现最多的项](https://github.com/appleguardu/coding/issues/1)
