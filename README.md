@@ -57,3 +57,6 @@ o(n): 创建长度为 n 的数组
 ## RegExp
 - [字符串转整数](https://github.com/appleguardu/coding/issues/8)
 - [实现一个报数序列](https://github.com/appleguardu/coding/issues/9)
+
+## Math
+- [罗马数字转整数](https://github.com/appleguardu/coding/issues/17)
