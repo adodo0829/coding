@@ -60,3 +60,5 @@ o(n): 创建长度为 n 的数组
 
 ## Math
 - [罗马数字转整数](https://github.com/appleguardu/coding/issues/17)
+- [输入数字n,输出从 1到n数字的字符串表示](https://github.com/appleguardu/coding/issues/18)
+- [质数统计](https://github.com/appleguardu/coding/issues/19)
