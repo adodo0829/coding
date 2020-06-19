@@ -64,3 +64,4 @@ o(n): 创建长度为 n 的数组
 - [质数统计](https://github.com/appleguardu/coding/issues/19)
 - [判断整数是否是幂次方](https://github.com/appleguardu/coding/issues/20)
 - [excle表的列序号](https://github.com/appleguardu/coding/issues/21)
+- [判断快乐数](https://github.com/appleguardu/coding/issues/22)
