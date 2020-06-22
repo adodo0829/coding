@@ -6,9 +6,11 @@ function transformArray(arr) {
   if (!Array.isArray(arr)) return
   const { length } = arr
   let result = []
+  let endIndex
 
   for (let i = 0; i < length; i++) {
     if ((i + 1) % 3 === 0) {
+      endIndex = i
       result.push(arr.slice(i - 2, i + 1))
     }
   }

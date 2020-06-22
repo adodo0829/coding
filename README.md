@@ -53,6 +53,7 @@ o(n): 创建长度为 n 的数组
 
 ## Array
 - [一维数组转化二维分段数组](https://github.com/appleguardu/coding/issues/6)
+- [旋转数组](https://github.com/appleguardu/coding/issues/23)
 
 ## RegExp
 - [字符串转整数](https://github.com/appleguardu/coding/issues/8)
