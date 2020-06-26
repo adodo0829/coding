@@ -1,5 +1,6 @@
 # Focus On Coding With JavaScript
 no matter how busy you are, keep coding with js
+for test
 
 ## 算法复杂度
 算法复杂度是考评算法执行效率和消耗资源的一个重要指标,在符合算法本身的要求的基础上,编写的程序运行时间越短,运行过程中占用的内存空间越少,意味着这个算法性能越好...
